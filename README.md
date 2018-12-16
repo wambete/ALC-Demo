@@ -1,2 +1,1 @@
-# ALC-Demo
-Angela Learning Community Projects
+This is a a README! It's for my Andela Learning Community demo.
